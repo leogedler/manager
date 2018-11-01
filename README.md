@@ -1,3 +1,3 @@
 # React Native App
 
-React native app using navigation and redux
+Complete React native app using navigation, redux and Firebase.
